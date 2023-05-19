@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=varad0207&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=varad0207&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 <!--
 **varad0207/varad0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
